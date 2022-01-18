@@ -1,0 +1,4 @@
+DOING Write chapter 2
+DONE 2.5.3. Find how to detach computation(take an intermediate value as constant) in Zygote. -@nograd
+TODO 2.5.5. Polish up summary
+TODO 2.5.6. Do exercises
